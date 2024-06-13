@@ -9,3 +9,4 @@ linuxserver/transmission:latest
 jellyfin/jellyfin:latest
 oldiy/chrome-novnc:latest
 kasmweb/qbittorrent
+kasmweb/qbittorrent:1.14.0-rolling
