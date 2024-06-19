@@ -9,3 +9,4 @@ linuxserver/transmission:latest
 jellyfin/jellyfin:latest
 oldiy/chrome-novnc:latest
 linuxserver/qbittorrent:latest
+xhofe/alist:latest
