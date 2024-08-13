@@ -10,3 +10,6 @@ jellyfin/jellyfin:latest
 oldiy/chrome-novnc:latest
 linuxserver/qbittorrent:latest
 xhofe/alist:latest
+dreamacro/clash
+#class的UI界面↓
+haishanh/yacd
