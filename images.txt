@@ -13,3 +13,4 @@ xhofe/alist:latest
 dreamacro/clash
 #class的UI界面↓
 haishanh/yacd
+cloudsync/cloudsync
